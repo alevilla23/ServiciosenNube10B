@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725009112175",
+    "project_id": "bdesmovil",
+    "storage_bucket": "bdesmovil.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725009112175:android:22d772ee610b707229c19a",
+        "android_client_info": {
+          "package_name": "com.example.copylogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYQrxvwrpxIwYX8SfKuu02CJIl07P9Oj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
